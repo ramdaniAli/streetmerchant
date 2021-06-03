@@ -30,3 +30,12 @@ cd streetmerchant && npm i && npm run start
 ```
 
 For more information and customization, visit [jef.buzz/streetmerchant/getting-started](https://jef.buzz/streetmerchant/getting-started).
+
+
+dotenv
+
+HEADLESS=false pour voir les bot en action sur chrome
+OPEN_BROWSER=true ouvre une fenetre lorsque un item est trouvé
+SHOW_ONLY_SERIES="GEFORCE RTX 3060 Ti , ..." ajoute la liste d'items que tu shouaite trouver
+STORES="Cdiscount , amazon ... " ajoute la liste des stores 
+
